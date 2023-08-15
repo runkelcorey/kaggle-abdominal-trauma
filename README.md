@@ -1,2 +1,1 @@
-# kaggle-abdominal-trauma
-Repo for RSNA 2023 Abdominal Trauma Detection Kaggle competition
+# [kaggle-abdominal-trauma](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/overview/description)
